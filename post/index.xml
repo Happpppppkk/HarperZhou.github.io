@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harper</title>
+    <link>https://Happpppppkk.github.io/Harper_Website/post/</link>
+    <description>Recent content in Projects on Harper</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Happpppppkk.github.io/Harper_Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bankruptcy Prediction</title>
+      <link>https://Happpppppkk.github.io/Harper_Website/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Happpppppkk.github.io/Harper_Website/post/chapter-2/</guid>
+      <description>In our recent study, we undertook an exhaustive exploration of bankruptcy prediction, a binary classification task, using a dataset sourced from &amp;lsquo;data.csv&amp;rsquo;. The primary objective was to accurately forecast instances of bankruptcy, given the observed features. The dataset, as per preliminary inspection, was marked by a significant class imbalance, highlighting a smaller proportion of bankrupt cases.
+Our methodology comprised various phases: initial data inspection, preprocessing (which included scaling of features using the StandardScaler), and a systematic partitioning of the data into training and testing sets.</description>
+    </item>
+    
+    <item>
+      <title>House Price EDA and Price Prediction </title>
+      <link>https://Happpppppkk.github.io/Harper_Website/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Happpppppkk.github.io/Harper_Website/post/chapter-1/</guid>
+      <description>In the rapidly evolving field of real estate, predicting house prices accurately can be a challenging endeavor. This study aims to build a predictive model for house prices using a dataset containing various housing attributes. Starting with an in-depth exploratory data analysis (EDA), the research revealed pertinent insights about the dataset, including missing values, feature distributions, and their inter-correlations. Key preprocessing steps, such as feature engineering and imputation, were undertaken to refine the dataset for modeling.</description>
+    </item>
+    
+    <item>
+      <title>MNIST Dataset: Digit Recognizer</title>
+      <link>https://Happpppppkk.github.io/Harper_Website/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Happpppppkk.github.io/Harper_Website/post/chapter-3/</guid>
+      <description>MNIST (&amp;ldquo;Modified National Institute of Standards and Technology&amp;rdquo;) is the de facto “Hello World” dataset of computer vision. Since its release in 1999, this classic dataset of handwritten images has served as the basis for benchmarking classification algorithms. As new machine learning techniques emerge, MNIST remains a reliable resource for researchers and learners alike.
+This study focuses on the application of deep learning techniques using TensorFlow and Keras frameworks. The dataset is splited into training and test set for evaluations.</description>
+    </item>
+    
+  </channel>
+</rss>
